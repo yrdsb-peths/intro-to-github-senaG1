@@ -3,12 +3,12 @@
 The contents of a readme file are written using [Markdown](https://www.markdownguide.org/basic-syntax/). You view the nicely formatted file when it is displayed on this Github page.
 
 # Part A. Make changes to the README file
-
+  Sena Godek
 1. Click the `pen` symbol above.
 
-2. Enter your First Name: sena godek
+2. Enter your First Name: Sena Godek
 
-3. Enter your favourite animal: Deer
+3. Enter your favourite animal: Cat
 
 4. Click the green `Commit Changes` button.
 
