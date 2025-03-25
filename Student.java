@@ -1,4 +1,5 @@
 print class Student {
   String firstName;
-  int age; 
+  int age;
+  String lastName; 
 }

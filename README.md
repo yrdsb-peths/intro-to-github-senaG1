@@ -6,9 +6,9 @@ The contents of a readme file are written using [Markdown](https://www.markdowng
   Sena Godek
 1. Click the `pen` symbol above.
 
-2. Enter your First Name: Sena Godek
+2. Enter your First Name: Selime Sena Godek
 
-3. Enter your favourite animal: Dog
+3. Enter your favourite animal: Deer
 
 4. Click the green `Commit Changes` button.
 
